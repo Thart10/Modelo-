@@ -26,6 +26,7 @@ git push origin main
 
 git pull
 depois de dar um pull estar dando muitos conflitos preciso resolver isso 
+Quando estiver alterando o arquivo global, não altere o arquivo do VS code ao mesmo tempo.
 "fazendo aleração pelo repositorio global" Isso foi alterado no global.
 
 

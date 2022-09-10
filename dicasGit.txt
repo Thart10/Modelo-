@@ -25,6 +25,7 @@ git merge nome da novaBrench      observação isso faz com que branch se junte
 git push origin main
 
 git pull
+depois de dar um pull estar dando muitos conflitos preciso resolver isso 
 "fazendo aleração pelo repositorio global" Isso foi alterado no global.
 
 

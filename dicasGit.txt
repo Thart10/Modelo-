@@ -10,4 +10,13 @@ git add .
 git commit -m "novo nome"
 git push origin main 
 
-Seguir essa base.
+
+
+criar uma nova brench
+git checkout -b "nome da novaBrench"
+
+para enviar para repositorio 
+git add .
+git commit -m "nome da novaBrench"
+git push origin nome da novaBrench 
+Ué

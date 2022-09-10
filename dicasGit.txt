@@ -1,0 +1,11 @@
+git init 
+git add  NomeDoArquivo.txt
+git commit -m "Nome do Commit"
+git branch -M "main"          mudar de master para Main 
+git remote add origin https://github.com/Thart10/Modelo-.git
+git push -u origin main 
+
+alterar a  projeto 
+git add .
+git commit -m "novo nome"
+git push origin main 

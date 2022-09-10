@@ -19,4 +19,9 @@ para enviar para repositorio
 git add .
 git commit -m "nome da novaBrench"
 git push origin nome da novaBrench 
-Ué
+
+git checkout main                 observação esse comando faz voltar para main principal 
+git merge nome da novaBrench      observação isso faz com que branch se junte 
+git push origin main
+
+Fork

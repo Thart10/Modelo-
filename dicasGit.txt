@@ -24,4 +24,6 @@ git checkout main                 observação esse comando faz voltar para main
 git merge nome da novaBrench      observação isso faz com que branch se junte 
 git push origin main
 
+fazendo aleração pelo repositorio global
+
 Fork

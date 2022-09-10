@@ -33,5 +33,7 @@ Quando estiver alterando o arquivo global, não altere o arquivo do VS code ao m
 Dicas fechar VS code. abrir pasta do arquivo pelo vs code 
 Erro não esta atualizando no visul studio code 
 
+git pull <remoto> serve para especifar qual branch que vou atualizar
+
 Fork
 

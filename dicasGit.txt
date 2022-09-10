@@ -30,10 +30,7 @@ Quando estiver alterando o arquivo global, não altere o arquivo do VS code ao m
 
 3. alterei sem modificar no Vs code e não aparceu nada, pode ser que estaja com algum problema 
 "fazendo aleração pelo repositorio global" Isso foi alterado no global.
-Dicas fechar VS code. abrir pasta do arquivo pelo vs code 
-Erro não esta atualizando no visul studio code 
-
-git pull <remoto> serve para especifar qual branch que vou atualizar
+observação trocar o posicionamneto do arquivo no vs code "Mudar de arquivo na barra de cima"
 
 Fork
 
